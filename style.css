@@ -1,0 +1,119 @@
+.static{
+  position: fixed;
+  width: 250px;
+  height: 250px;
+  border: none;
+  background: skyblue;
+  top:0;
+  left:0;
+}
+h1{
+  text-align: center;
+}
+img#image{
+border-radius: 60px;
+margin: 20px 35px;
+}
+
+h2{
+
+  color: white;
+  background: gray;
+  text-align: center;
+
+}
+p#about{
+  margin: 3px;
+  font-family: monospace;
+  color: white;
+  font-weight: normal;
+}
+ul#lan{
+  font-family: sans-serif;
+  color: white;
+}
+h2#header{
+
+  margin-left: 300px;
+  color: black;
+  background: none;
+  text-align: left;
+}
+p#paragrap{
+
+  margin-left: 300px;
+font-family:serif;
+
+
+}
+ul#lists{
+  margin-left: 300px;
+  font-family: serif;
+}
+p#para{
+
+  margin-left: 300px;
+font-family: sans-serif;
+
+}
+hr#basic{
+height:10px;
+  margin-left:300px;
+  background: gray;
+  border:none;
+}
+div.fixed{
+  position: fixed;
+  width: 250px;
+  height: 300px;
+  border: none;
+  background: skyblue;
+  top:250px;
+  left:0;
+}
+div.fix{
+  position: fixed;
+  width: 250px;
+  height: 300px;
+  border: none;
+  background: skyblue;
+  top:550px;
+  left:0;
+}
+.container{
+  width: 80%;
+  
+  background: #ddd;
+  margin-left: 300px;
+}
+.skills {
+  text-align: right;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  color: white;
+
+}
+.html{
+  width: 90%;
+  background: #04AA6D;
+}
+.css{
+  width: 90%;
+  background: #04AA6D;
+}
+.javascript{
+  width: 50%;
+  background: #f44336;
+}
+.Java{
+  width: 60%;
+  background:yellow;
+}
+.sharp{
+  width: 60%;
+  background:yellow;
+}
+
+p{
+  margin-left: 300px;
+}
